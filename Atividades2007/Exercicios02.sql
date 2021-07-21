@@ -19,6 +19,10 @@ insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidad
 insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("Grand Siena", "Fiat", "Preto", 40000.00, 0.0, 4, 5, true);
 insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("Uno Way", "Fiat", "Prata", 50000.00, 0.0, 4, 2, true);
 insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("Spin", "Chevrolet", "Preto", 400.00, 0.0, 4, 7, true);
+insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("Celta", "Chevrolet", "Azul", 10000.00, 0.0, 4, 1, false);
+insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("R8", "Audi", "Preto", 1000000.00, 0.0, 4, 1, true);
+insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("Panamera", "Porsche", "Azul bebê", 600000.00, 0.0, 4, 2, true);
+insert into tb_produtos(nome, marca, cor, preco, kilometragem, portas, quantidade, automatico) values ("GTR", "Nissan", "Preto", 769109.00, 0.0, 4, 7, true);
 
 select * from tb_produtos;
 
